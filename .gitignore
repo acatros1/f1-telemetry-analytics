@@ -1,0 +1,15 @@
+# Entorno virtual
+f1_env/
+
+# Caché de datos de F1
+f1_cache/
+fastf1_cache/
+
+# Caché de compilación de Python
+__pycache__/
+
+# Archivo residual/temporal detectado
+26.1.2
+
+# Archivos de salida locales
+resultado_analisis.txt
